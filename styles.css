@@ -1,0 +1,53 @@
+.background {
+    background-color: #A7C7E7;
+    margin: -10px -10px -10px -10px;
+    padding: 25px;
+}
+
+.nav {
+    margin-left: 300px;
+    word-spacing: 50px;
+}
+
+.name {
+    margin-left: 540px;
+}
+
+.header {
+    margin-left: 490px;
+}
+
+.contact {
+    margin-left: 430px;
+}
+
+.summary {
+    border-top: 10px solid #A7C7E7;
+    border-bottom: 5px solid black;
+    margin-bottom: -10px;
+    
+}
+
+.education {
+    border-top: 5px solid #A7C7E7;
+    border-bottom: 5px solid black;
+    margin-bottom: -10px;
+}
+
+.work {
+    border-top: 5px solid #A7C7E7;
+    border-bottom: 5px solid black;
+    margin-bottom: -10px;
+}
+
+.skills {
+    border-top: 5px solid #A7C7E7;
+    border-bottom: 5px solid black;
+    margin-bottom: -10px;
+}
+
+.clubs {
+    border-top: 5px solid #A7C7E7;
+    border-bottom: 5px solid black;
+    margin-bottom: -10px;
+}
